@@ -4,15 +4,15 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Self Driving Cars Longitudinal and Lateral Control Design](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Motion Planner for Self Driving Cars](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Environment-Perception-For-Self-Driving-Cars](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
