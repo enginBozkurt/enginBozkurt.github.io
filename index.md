@@ -9,7 +9,7 @@
 
 ---
 [Motion Planner for Self Driving Cars](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/motion.jpg?raw=true"/>
 
 ---
 [Environment-Perception-For-Self-Driving-Cars](http://example.com/)
