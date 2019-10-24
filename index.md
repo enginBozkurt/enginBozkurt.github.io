@@ -2,20 +2,23 @@
 
 ---
 
-### Category Name 1 
+### Autonomous Driving 
 
-[Self Driving Cars Longitudinal and Lateral Control Design](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Self Driving Cars Longitudinal and Lateral Control Design](https://github.com/enginBozkurt/SelfDrivingCarsControlDesign)
+<img src="images/control.jpg?raw=true"/>
 
 ---
-[Motion Planner for Self Driving Cars](/pdf/sample_presentation.pdf)
+[Motion Planner for Self Driving Cars](https://github.com/enginBozkurt/MotionPlanner)
 <img src="images/motion.jpg?raw=true"/>
 
 ---
-[Environment-Perception-For-Self-Driving-Cars](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Lidar Obstacle Detection](https://github.com/enginBozkurt/LidarObstacleDetection)
+<img src="images/lidar.gif?raw=true"/>
 
 ---
+
+[Environment-Perception-For-Self-Driving-Cars](https://github.com/enginBozkurt/Environment-Perception-For-Self-Driving-Cars)
+<img src="images/env.png?raw=true"/>
 
 ### Category Name 2
 
