@@ -32,8 +32,8 @@
 
 [Error State Extended Kalman Filter](https://github.com/enginBozkurt/Error-State-Extended-Kalman-Filter)
 
-<img src="images/ekf3?raw=true"/>
-<img src="images/EKF?raw=true"/>
+<img src="images/ekf3.jpg?raw=true"/>
+<img src="images/EKF.jpg?raw=true"/>
 
 ---
 
