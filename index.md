@@ -60,13 +60,20 @@
 
 ---
 
-- [Udacity Deep Leaarning Projects](https://github.com/enginBozkurt/deep-learning-nanodegree)
+- [Udacity Deep Learning Nanodegree Projects](https://github.com/enginBozkurt/deep-learning-nanodegree)
 
-<img src="images/CancerProject.jpg?raw=true"/>
+<img src="images/DLNanodegree.jpg?raw=true"/>
+
+---
+
+ [Style Transfer with Deep Neural Networks](https://github.com/enginBozkurt/Style-Transfer-with-Deep-Neural-Networks)
+
+<img src="images/StyleTransfer.jpg?raw=true"/>
 
 ---
 
 - [Project 2 Title](http://example.com/)
+
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
@@ -77,5 +84,4 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
