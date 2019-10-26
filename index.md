@@ -4,33 +4,33 @@
 
 ### Autonomous Driving 
 
-[Self Driving Cars Longitudinal and Lateral Control Design](https://github.com/enginBozkurt/SelfDrivingCarsControlDesign)
+- [Self Driving Cars Longitudinal and Lateral Control Design](https://github.com/enginBozkurt/SelfDrivingCarsControlDesign)
 <img src="images/control.jpg?raw=true"/>
 
 ---
-[Motion Planner for Self Driving Cars](https://github.com/enginBozkurt/MotionPlanner)
+- [Motion Planner for Self Driving Cars](https://github.com/enginBozkurt/MotionPlanner)
 <img src="images/motion.jpg?raw=true"/>
 
 ---
-[Lidar Obstacle Detection](https://github.com/enginBozkurt/LidarObstacleDetection)
+- [Lidar Obstacle Detection](https://github.com/enginBozkurt/LidarObstacleDetection)
 
 <img src="images/lidar.gif?raw=true"/>
 
 ---
 
-[Environment Perception For Self Driving Cars](https://github.com/enginBozkurt/Environment-Perception-For-Self-Driving-Cars)
+- [Environment Perception For Self Driving Cars](https://github.com/enginBozkurt/Environment-Perception-For-Self-Driving-Cars)
 
 <img src="images/envpercep.jpg?raw=true"/>
 
 ---
 
-[Visualizing lidar data](https://github.com/enginBozkurt/Visualizing-lidar-data)
+- [Visualizing lidar data](https://github.com/enginBozkurt/Visualizing-lidar-data)
 
 <img src="images/58125546-7924eb00-7c19-11e9-93e1-c69c5465edb9.png?raw=true"/>
 
 ---
 
-[Error State Extended Kalman Filter](https://github.com/enginBozkurt/Error-State-Extended-Kalman-Filter)
+- [Error State Extended Kalman Filter](https://github.com/enginBozkurt/Error-State-Extended-Kalman-Filter)
 
 <img src="images/ekf3.jpg?raw=true"/>
 <img src="images/EKF.jpg?raw=true"/>
@@ -45,6 +45,12 @@
 
 <img src="images/GrabAI1.jpg?raw=true"/>
 <img src="images/GrabAI2.jpg?raw=true"/>
+
+---
+
+- [Object Detection with Single Shot MultiBox Detector](https://github.com/enginBozkurt/Object_Detection_With_SSD)
+
+<img src="images/ssd.gif?raw=true"/>
 
 ---
 
