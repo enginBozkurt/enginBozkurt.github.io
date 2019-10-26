@@ -66,13 +66,13 @@
 
 ---
 
- [Style Transfer with Deep Neural Networks](https://github.com/enginBozkurt/Style-Transfer-with-Deep-Neural-Networks)
+ - [Style Transfer with Deep Neural Networks](https://github.com/enginBozkurt/Style-Transfer-with-Deep-Neural-Networks)
 
 <img src="images/StyleTransfer.jpg?raw=true"/>
 
 ---
 
-[Udacity Google Nanodegree Mobile Web Specialist Project](https://github.com/enginBozkurt/udacity-mws-restaurant-stage3)
+- [Udacity Google Nanodegree Mobile Web Specialist Project - Restaurant Reviews App](https://github.com/enginBozkurt/udacity-mws-restaurant-stage3)
 
 <img src="images/MobileWeb.jpg?raw=true"/>
 
