@@ -41,7 +41,7 @@
 
 ### Machine Learning, Deep Learning, Data Science and Computer Vision Projects
 
-- [Traffic  Management Project ](https://github.com/enginBozkurt/Grab_AI)
+- [Traffic  Management Project - Grab: AI for S.E.A](https://github.com/enginBozkurt/Grab_AI)
 
 <img src="images/GrabAI1.jpg?raw=true"/>
 <img src="images/GrabAI2.jpg?raw=true"/>
