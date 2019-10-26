@@ -72,11 +72,9 @@
 
 ---
 
-- [Project 2 Title](http://example.com/)
+[Udacity Google Nanodegree Mobile Web Specialist Project](https://github.com/enginBozkurt/udacity-mws-restaurant-stage3)
 
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+<img src="images/MobileWeb.jpg?raw=true"/>
 
 ---
 
